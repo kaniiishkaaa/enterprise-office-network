@@ -1,3 +1,3 @@
 ## Network Topology
 
-![Topology](topology.png)
+![Topology](Topology.png)
